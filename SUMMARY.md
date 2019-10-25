@@ -11,7 +11,7 @@
     * [2.1.1](overview/data-loading-2nd-level/3rd-level-1/2.1.1.md)
   * [2.2](overview/data-loading-2nd-level/3rd-level-2.md)
 * [Data Transformation](overview/data-transformation-2nd-level/README.md)
-  * [Median Imputation](overview/data-transformation-2nd-level/median-imputation.md)
-  * [3.1](overview/data-transformation-2nd-level/3.1.md)
+  * [data.transform.median\_impute\_col](overview/data-transformation-2nd-level/median-imputation.md)
+  * [data.transform.winsorize\_col](overview/data-transformation-2nd-level/3.1.md)
   * [3.2](overview/data-transformation-2nd-level/3.2.md)
 
