@@ -1,7 +1,6 @@
 # Table of contents
 
-* [data.load.load\_prepare\_data](README.md)
-* [1 Code Structure](code-structure.md)
+* [Overview](README.md)
 
 ## Data <a id="overview"></a>
 
@@ -23,5 +22,5 @@
 ## Evaluation <a id="evaluationg"></a>
 
 * [Intra-step stability](evaluationg/untitled/README.md)
-  * [Untitled](evaluationg/untitled/untitled.md)
+  * [evaluation.evaluate.bootstrap\_stability](evaluationg/untitled/untitled.md)
 
