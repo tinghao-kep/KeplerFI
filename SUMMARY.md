@@ -15,7 +15,8 @@
 
 ## Modeling <a id="model-functions"></a>
 
-* [modeling.model\_lib.ridge\_regressor\_GS](model-functions/modeling.model_lib.ridge_regressor_gs.md)
+* [Models](model-functions/models/README.md)
+  * [modeling.model\_lib.ridge\_regressor\_GS](model-functions/models/modeling.model_lib.ridge_regressor_gs.md)
 
 ## Evaluation <a id="evaluationg"></a>
 
