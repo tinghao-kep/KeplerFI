@@ -1,2 +1,2 @@
-# modeling.model\_lib.lgbm\_classifier\_GS
+# model\_lib.lgbm\_classifier\_GS
 

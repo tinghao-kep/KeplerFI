@@ -1,2 +1,2 @@
-# modeling.model\_lib.ridge\_regressor\_GS
+# model\_lib.ridge\_regressor\_GS
 
