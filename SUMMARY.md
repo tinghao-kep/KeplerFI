@@ -23,4 +23,6 @@
 
 * [Intra-step stability](evaluationg/untitled/README.md)
   * [evaluation.evaluate.bootstrap\_stability](evaluationg/untitled/untitled.md)
+* [Inter-step stability](evaluationg/inter-step-stability/README.md)
+  * [evaluation.evaluate.jeff\_metric](evaluationg/inter-step-stability/evaluation.evaluate.jeff_metric.md)
 
