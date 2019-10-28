@@ -4,5 +4,5 @@ description: >-
   y_colname='y', time_colname='period_enddate', print_dates=True)
 ---
 
-# data.manipulate.walk\_forward\_split\_moving
+# manipulate.walk\_forward\_split\_moving
 

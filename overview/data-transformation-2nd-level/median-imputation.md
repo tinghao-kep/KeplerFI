@@ -2,7 +2,7 @@
 description: 'median_impute_col(series, days=90)'
 ---
 
-# data.transform.median\_impute\_col
+# transform.median\_impute\_col
 
 Performs rolling median imputation on a pandas series with datetime index.
 
@@ -34,3 +34,4 @@ Performs rolling median imputation on a pandas series with datetime index.
     </tr>
   </tbody>
 </table>
+
